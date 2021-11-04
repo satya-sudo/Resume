@@ -1,19 +1,19 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Satyam Shree",
+    "description":"I am a full stack developer and I use react.js and Django to develop web apps.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"I am a Pre final year CSE student. I worked in Full Stack development domain. I am also competitive coder and a Painter",
+    "contactmessage":"Wanna get in Touch. Drop a mail below or call me on my phone.",
+    "email": "Satyamshree22@gmail.com",
+    "phone": "+918002715425",
+    "github":"https://github.com/Satya-sudo",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Sir mvit men's hostel",
+      "city":"bangalore",
+      "state":"Karnataka",
+      "zip": "562157"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -49,136 +49,95 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Sir Mvit",
+        "degree":"BE cse",
+        "graduated":"July 2023"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Ishan International Public School",
+        "degree":"12 th ",
+        "graduated":"2019"
+      },
+      {
+        "school":"Don Bosco Acadmy",
+        "degree":"10 th ",
+        "graduated":"2017"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Logist Technology",
+        "title":"Backend Developer",
+        "years":"October 2021 - Present",
+        "description":"Backend development using Django, nodejs and Fastapi . Creating  whole logistic ecosystem from scatch."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Reach technology",
+        "title":"Django backend developer ",
+        "years":"july 2021 - october 2021",
+        "description":"Fixing bugs and adding features to production web app backend"
       }
     ],
     "skills":[
       {
         "name":"Python",
+        "level":"100%"
+      },
+      {
+        "name":"React.js",
         "level":"60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"Django",
         "level":"90%"
       },
       {
-        "name":"PHP",
+        "name":"Node.js",
+        "level":"90%"
+      },
+      {
+        "name":"Mongo",
         "level":"80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"Progress",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScrpt",
+        "level":"70%"
       },
       {
         "name":"JAVA",
-        "level":"80%"
+        "level":"40%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
+        "title":"Blood Support",
+        "category":"Blood Support. A plateform for blood donors and people in need of blood",
+        "image":"01.png",
         "url":"https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
+        "title":"Poems and Poets",
+        "category":"A plateform for poets to showcase thier poems",
+        "image":"02.png",
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
+        "title":"Passvault Plus",
+        "category":"A password management system",
+        "image":"03.png",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
+        "title":"Visual Sort",
+        "category":"Sorting algo visualizer",
+        "image":"04.png",
         "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
       }
     ]
   }
